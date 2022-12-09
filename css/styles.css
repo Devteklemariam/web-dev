@@ -1,0 +1,134 @@
+body {
+    background-color: #3b4d61;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+h2 {
+   font-family: 'Courier New', Courier, monospace;
+   line-height: 3;
+   font-weight: bold ;
+}
+h3 {
+    font-weight: bold;
+    color: black;
+}
+
+/*home*/
+
+.container-fluid {
+    padding: 0% 10% 2%;
+}
+
+
+/* navbar-adjustment */
+
+.navbar {
+    padding: 0 0 2rem;
+}
+
+.nav-item :hover {
+    font-weight: bold;
+    color: black;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+/* about us img */
+.img-title {
+
+    width: 100%;
+    aspect-ratio: 2;
+
+}
+
+
+/* about */
+
+#about {
+    padding: 7% 15%;
+    background-color: #6b7b8c;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: aliceblue;
+    margin-bottom: 2.5rem;
+}
+.icon:hover{
+    color: #3b4d61;
+}
+
+
+
+/* sample */
+
+#smaple {
+    text-align: center;
+    background-color: #3b4d61;
+    padding-top: 2%;
+}
+.carousel-item{
+    padding: 1% 15%;
+}
+
+.test-img{
+    max-width: 50%;
+    aspect-ratio: 1;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+/* footer */
+
+#footer {
+
+    background-color: #6b7b8c;
+    padding: 1% 7%;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.ico{
+  color:black;
+    font-size: large;
+    padding: 2% 1% ;
+    text-align: center;
+    
+}
+.ico:hover{
+    color: aliceblue;
+}
+    
+.cont{
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+}
+
+
+/* product page */
+
+
+#secondRow{
+    padding-top: 2%;
+}
